@@ -14,6 +14,10 @@
     <!-- Bootstrap core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
+    
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Jost:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+
     <!-- Additional CSS Files -->
     <link rel="stylesheet" href="assets/css/fontawesome.css">
     <link rel="stylesheet" href="assets/css/templatemo-grad-school.css">
@@ -47,12 +51,13 @@ https://templatemo.com/tm-557-grad-school
             <li><a href="#section3">How it works?</a></li>
             <li><a href="https://templatemo.com/about" rel="sponsored" class="external">External URL</a></li>
           </ul>
-        </li>
+        </li>s
+        <li><a href="createuser.php">Create a User</a></li>
+        <li><a href="/transfermoney.php">Make a Transaction</a></li>
+        <li><a href="#section1">Transaction History</a></li>
+
         <li><a href="#section4"></a></li>
-        <!-- <li><a href="#section5">Video</a></li> -->
-        <li><a href="#section6">Contact</a></li>
-        <li><a href="https://templatemo.com" class="external">External</a></li>
-      </ul>
+    
     </nav>
   </header>
 
@@ -82,7 +87,7 @@ https://templatemo.com/tm-557-grad-school
           <div class="features-post">
             <div class="features-content">
               <div class="content-show">
-                <h4><i class="fa fa-pencil"></i>All Courses</h4>
+                <h4><i class="fa fa-pencil"></i>Profile</h4>
               </div>
               <div class="content-hide">
                 <p>Curabitur id eros vehicula, tincidunt libero eu, lobortis mi. In mollis eros a posuere imperdiet. Donec maximus elementum ex. Cras convallis ex rhoncus, laoreet libero eu, vehicula libero.</p>
@@ -124,29 +129,76 @@ https://templatemo.com/tm-557-grad-school
     </div>
   </section>
 
+  
+  <section class="section video" data-section="section5">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-6 align-self-center">
+          <div class="left-content">
+            
+            <h4>Our <em>Profile</em></h4>
+            <p>Widely known for customer centricity, Canara Bank was founded by Shri Ammembal Subba Rao Pai, a great visionary and philanthropist, in July 1906, at Mangalore, then a small port town in Karnataka. The Bank has gone through the various phases of its growth trajectory over hundred years of its existence. Growth of Canara Bank was phenomenal, especially after nationalization in the year 1969, attaining the status of a national level player in terms of geographical reach and clientele segments. Eighties was characterized by business diversification for the Bank. In June 2006, the Bank completed a century of operation in the Indian banking industry. The eventful journey of the Bank has been characterized by several memorable milestones. Today, Canara Bank occupies a premier position in the comity of Indian banks.
+            </p>
+            
+          </div>
+        </div>
+        <div class="col-md-6">
+              <img src="https://upload.wikimedia.org/wikipedia/commons/a/aa/Canara_Bank_Head_Office_Bengaluru.jpg" width="600" height="450">
+        
+      </div>
+    </div>
+  </section>
+
+  <section class="section video" data-section="section5">
+    <div class="container">
+      <div class="row">
+      <div class="col-md-6">
+              <img src="https://nestleblogcom.files.wordpress.com/2017/09/vision-and-mission.jpg?w=1400.jpg" width="550" height="400" align="right"/>
+        
+      </div>
+        <div class="col-md-6 align-self-center">
+       
+          <div class="left-content">
+            
+            <h4>Vision and <em >Mission</em></h4>
+            <p>To emerge as a ‘Preferred Bank’ by pursuing global benchmarks in profitability, operational efficiency, asset quality, risk management and expanding the global reach.
+            </p>
+            <p>To provide quality banking services with good customer care, create value for all stakeholders and continue as a responsive corporate social citizen.</p>
+            
+          </div>
+        </div>
+    
+    </div>
+  </section>
+
+
+
+
+ 
+
   <section class="section why-us" data-section="section2">
     <div class="container">
       <div class="row">
         <div class="col-md-12">
           <div class="section-heading">
-            <h2>Why choose Grad School?</h2>
+            <h2>How to use?</h2>
           </div>
         </div>
         <div class="col-md-12">
           <div id='tabs'>
             <ul>
-              <li><a href='#tabs-1'>Best Education</a></li>
-              <li><a href='#tabs-2'>Top Management</a></li>
-              <li><a href='#tabs-3'>Quality Meeting</a></li>
+              <li><a href='#tabs-1'>Create a User</a></li>
+              <li><a href='#tabs-2'>Make a Transaction</a></li>
+              <li><a href='#tabs-3'>Transaction History</a></li>
             </ul>
             <section class='tabs-content'>
               <article id='tabs-1'>
                 <div class="row">
                   <div class="col-md-6">
-                    <img src="assets/images/choose-us-image-01.png" alt="">
+                    <img src="https://miro.medium.com/max/1600/1*ZimrItZcoU9Otde9V6Xcew.gif" alt="">
                   </div>
                   <div class="col-md-6">
-                    <h4>Best Education</h4>
+                    <h4>Create a User</h4>
                     <p>Grad School is free educational HTML template with Bootstrap 4.5.2 CSS layout. Feel free to use it for educational or commercial purposes. You may want to make <a href="https://paypal.me/templatemo" target="_parent" rel="sponsored">a little donation</a> to TemplateMo. Please tell your friends about us. Thank you.</p>
                   </div>
                 </div>
@@ -154,10 +206,11 @@ https://templatemo.com/tm-557-grad-school
               <article id='tabs-2'>
                 <div class="row">
                   <div class="col-md-6">
-                    <img src="assets/images/choose-us-image-02.png" alt="">
+                    <img src="https://cdn.dribbble.com/users/3821672/screenshots/7172841/media/63807102d2930b6d71d04bee43af9b0f.gif" alt="">
+                    
                   </div>
                   <div class="col-md-6">
-                    <h4>Top Level</h4>
+                    <h4>Make a Transaction</h4>
                     <p>You can modify this HTML layout by editing contents and adding more pages as you needed. Since this template has options to add dropdown menus, you can put many HTML pages.</p> 
                     <p>Suspendisse tincidunt, magna ut finibus rutrum, libero dolor euismod odio, nec interdum quam felis non ante.</p>
                   </div>
@@ -166,10 +219,10 @@ https://templatemo.com/tm-557-grad-school
               <article id='tabs-3'>
                 <div class="row">
                   <div class="col-md-6">
-                    <img src="assets/images/choose-us-image-03.png" alt="">
+                    <img src="https://i.pinimg.com/originals/ac/14/0a/ac140a627af854f14c7f653efd7d53ae.gif" alt="">
                   </div>
                   <div class="col-md-6">
-                    <h4>Quality Meeting</h4>
+                    <h4>Transaction History</h4>
                     <p>You are NOT allowed to redistribute this template ZIP file on any template collection website. However, you can use this template to convert into a specific theme for any kind of CMS platform such as WordPress. For more information, you shall <a rel="nofollow" href="https://templatemo.com/contact" target="_parent">contact TemplateMo</a> now.</p>
                   </div>
                 </div>
@@ -248,6 +301,7 @@ https://templatemo.com/tm-557-grad-school
       </div>
     </div>
   </section>
+
 
   <section class="section courses" data-section="section4">
     <div class="container-fluid">
