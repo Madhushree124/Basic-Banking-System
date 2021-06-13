@@ -27,7 +27,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
 
-<body style="background-color : #82E0AA;">
+<body style="background-image:url( https://images.pexels.com/photos/1254736/pexels-photo-1254736.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940.jpg);">
 
    
 <?php
@@ -48,7 +48,10 @@
                     
     }
   }
+
+   
 ?>
+
         <br>
         <br>
         <h2 class="text-center pt-4" style="color : black;">Create a User</h2>
